@@ -62,47 +62,47 @@ For Hardware:
 
 ### Project Documentation
 For Software:
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1]
 https://github.com/JoanneKoshy/Thermo/blob/main/Screenshot%20(53).png
+
 This is the output pic shown in the vsc while the code is running and the music is playing
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]
 https://github.com/JoanneKoshy/Thermo/blob/main/Screenshot%20(55).png
+
 This is another pic of the vsc code running
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![Screenshot3]
+
 https://github.com/JoanneKoshy/Thermo/blob/main/Screenshot%202024-10-30%20222750.png
 This pic is the running of the code in Arduino ide
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+![Circuit]
 https://github.com/JoanneKoshy/Thermo/blob/main/archi.jpg
 
 This shows the whole architerctural flow of the circuit built and its code working
 
 # Build Photos
-![Components](Add photo of your components here)
+![Components]
 https://github.com/JoanneKoshy/Thermo/blob/main/compo.jpg
 The components used are Arduino uno board, Jumper Wires, Dht11 temperature sensor, LCD for display
 
-![Build](Add photos of build process here)
+![Build]
 https://github.com/JoanneKoshy/Thermo/blob/main/mid.jpg
 Here the temperature which has been read from the arduino is processed by the python script and the spotify playlist plays the desired song according to the temperture inputs.
 
-![Final](Add photo of final product here)
+![Final]
 https://github.com/JoanneKoshy/Thermo/blob/main/final.jpg
 The temperature is read and then the spotify plays the song according to the input. 
 The playlist which plays are different for each temperature range, it is possible because we passed the spotify playlist Uri.
 
 ### Project Demo
 # Video
-[Add your demo video link here]
 https://github.com/JoanneKoshy/Thermo/blob/main/video.mp4
 https://github.com/JoanneKoshy/Thermo/blob/main/video2.mp4
 
