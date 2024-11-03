@@ -58,18 +58,10 @@ For Hardware:
 ---
 
 
-### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
 
 ### Project Documentation
 For Software:
-
-# Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 https://github.com/JoanneKoshy/Thermo/blob/main/Screenshot%20(53).png
 This is the output pic shown in the vsc while the code is running and the music is playing
@@ -118,9 +110,9 @@ The hardware and the software integration is running and the temperature is bein
 The desired connection is done succesfully and we have integrated music and programming together.
 
 ## Team Contributions
-- [Joanne Alice Thomas]: [Software]
+- [Joanne Alice Thomas]: [Software configuration]
 - [Basil Mathews Biju]: [Arduino configuration]
-- [Vasudev Reji]: [Hardware]
+- [Vasudev Reji]: [Hardware configuration]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
