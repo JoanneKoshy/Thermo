@@ -62,6 +62,12 @@ For Hardware:
 
 ### Project Documentation
 For Software:
+VSC Code: https://github.com/JoanneKoshy/Thermo/blob/main/spotify.py
+
+WebStreamlitCode: 
+https://github.com/JoanneKoshy/Thermo/blob/main/strem.py
+
+
 ![Screenshot1]
 https://github.com/JoanneKoshy/Thermo/blob/main/Screenshot%20(53).png
 
