@@ -109,8 +109,10 @@ The playlist which plays are different for each temperature range, it is possibl
 
 ### Project Demo
 # Video
-https://github.com/JoanneKoshy/Thermo/blob/main/video.mp4
-https://github.com/JoanneKoshy/Thermo/blob/main/video2.mp4
+https://youtube.com/shorts/07vAOp8caLk?si=WDHrT5n_PWJaypXN
+
+
+https://youtube.com/shorts/HGq1Q-ifgf4?si=noSUpqcq1KeA-z0V
 
 The hardware and the software integration is running and the temperature is being succesfully displayed in the lcd, and according to the change in the temperature range changes, the playlist feeded in through spotify is being played according to that. 
 The desired connection is done succesfully and we have integrated music and programming together.
