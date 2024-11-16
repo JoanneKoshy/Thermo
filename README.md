@@ -3,6 +3,12 @@
 # [Thermo-tunes] 🎯
 
 
+Video Links : 
+
+https://youtube.com/shorts/07vAOp8caLk?si=WDHrT5n_PWJaypXN
+
+https://youtube.com/shorts/HGq1Q-ifgf4?si=noSUpqcq1KeA-z0V
+
 ## Basic Details
 ### Team Name: [Optimus]
 
